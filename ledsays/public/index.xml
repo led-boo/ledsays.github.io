@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>led.boo</title>
+    <link>https://ledsays.github.io/</link>
+    <description>Recent content on led.boo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Oct 2022 17:33:12 +1100</lastBuildDate><atom:link href="https://ledsays.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web 1 &amp; 2</title>
+      <link>https://ledsays.github.io/posts/mypost/</link>
+      <pubDate>Tue, 11 Oct 2022 17:33:12 +1100</pubDate>
+      
+      <guid>https://ledsays.github.io/posts/mypost/</guid>
+      <description>Hi, I&amp;rsquo;m David a.k.a LED
+Welcome to my blog, where I will post a loose collection of thoughts (or ramblings) about my foray into what some see as the next generation of the web, all the way back from my beginnings in computing.
+HTML websites were abundant and each still had their own quirky colours, sounds, clip art, gifs and hyperlinks.. for days. Navigation was messy and pressing on the wrong link which ended up loading a 3 megabyte picture was utterly painful on such a slow connection.</description>
+    </item>
+    
+  </channel>
+</rss>
